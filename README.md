@@ -5,20 +5,23 @@ I am constantly learning, improving, and looking to share new code with anyone l
 
 Note, I am in the process of making these repositories public.
 
-## Regional Modeling with MITgcm
+## Modeling
+### Regional Modeling with MITgcm
 - downscale_ecco_v5
 - [downscale_ecco_v5_darwin](https://github.com/mhwood/downscale_ecco_v5_darwin)
 - downscale_ecco_v6_with_tides
 
-## MITgcm Packages and Miscellaneous Test Models
+### MITgcm Packages and Miscellaneous Test Models
 - [diagnostics_vec](https://github.com/mhwood/diagnostics_vec)
 - [prescribe_vec](https://github.com/mhwood/prescribe_vec)
 - slr_corr
 - mitgcm_sanity_configs
 
-## Remote Sensing of Land Ice
-- GreenlandCHANGES
+## Remote Sensing
+### Land Ice
+- IceSheetCHANGES
 - BedMachineV6
 
-## Ocean Observations
+## In situ Observations
+### Ocean Observations
 - polar_ctds
