@@ -15,7 +15,7 @@ Note, I am in the process of making these repositories public.
 - [diagnostics_vec](https://github.com/mhwood/diagnostics_vec)
 - [prescribe_vec](https://github.com/mhwood/prescribe_vec)
 - slr_corr
-- mitgcm_sanity_configs
+- [mitgcm_notes](https://github.com/mhwood/mitgcm_notes)
 
 ## Remote Sensing
 ### Land Ice
