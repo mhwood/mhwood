@@ -24,5 +24,5 @@ Note, I am in the process of making these repositories public.
 
 ## In situ Observations
 ### Ocean Observations
-- polar_ctds
+- [polar_ctds](https://github.com/mhwood/polar_ctds)
 - [GreenlandFloats](https://github.com/mhwood/GreenlandFloats)
