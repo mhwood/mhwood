@@ -7,7 +7,7 @@ Note, I am in the process of making these repositories public.
 
 ## Modeling
 ### Regional Modeling with MITgcm
-- downscale_ecco_v5
+- [downscale_ecco_v5](https://github.com/mhwood/downscale_ecco_v5)
 - [downscale_ecco_v5_darwin](https://github.com/mhwood/downscale_ecco_v5_darwin)
 - downscale_ecco_v6_with_tides
 
