@@ -7,15 +7,19 @@ Note, I am in the process of making these repositories public.
 
 ## Modeling
 ### Regional Modeling with MITgcm
+- [downscale_greenland](https://github.com/mhwood/downscale_greenland)
 - [downscale_ecco_v5](https://github.com/mhwood/downscale_ecco_v5)
 - [downscale_ecco_v5_darwin](https://github.com/mhwood/downscale_ecco_v5_darwin)
-- downscale_ecco_v6_with_tides
+- [downscale_ecco_v6_with_tides](https://github.com/mhwood/downscaled_east_pacific)
 
 ### MITgcm Packages and Miscellaneous Test Models
 - [diagnostics_vec](https://github.com/mhwood/diagnostics_vec)
 - [prescribe_vec](https://github.com/mhwood/prescribe_vec)
 - [slr_corr](https://github.com/mhwood/slr_corr)
 - [mitgcm_notes](https://github.com/mhwood/mitgcm_notes)
+
+### Regional Model Analysis
+- [greenland_model_analysis](https://github.com/mhwood/greenland_model_analysis.git)
 
 ## Remote Sensing
 ### Land Ice
