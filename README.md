@@ -19,6 +19,10 @@ Note, I am in the process of making these repositories public.
 - [slr_corr](https://github.com/mhwood/slr_corr)
 - [mitgcm_notes](https://github.com/mhwood/mitgcm_notes)
 
+### Copies of packages from other researchers
+- [iceberg](https://github.com/mhwood/iceberg)
+- [iceplume](https://github.com/mhwood/iceplume)
+
 ### Regional Model Analysis
 - [greenland_model_analysis](https://github.com/mhwood/greenland_model_analysis.git)
 
